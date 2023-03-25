@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🦖 About Me:
 - I'm currently working on an AI based system for identifying accident-prone spots.
 - I'm looking to collaborate projects that may be related AI/ML , Fintech or Native Android app development.
 - I'm looking for help with learning AI/ML.
